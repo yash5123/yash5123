@@ -23,13 +23,23 @@
 
 ## 👨‍💻 About Me
 
-🎓 &nbsp;CS Undergrad at **Ramdeobaba University, Nagpur**
-🌱 &nbsp;Currently learning **Machine Learning** + **HuggingFace Transformers**
-💻 &nbsp;Building full-stack apps with **Next.js, Node.js & MongoDB**
-🤖 &nbsp;Exploring the intersection of **ML and real-world web products**
-💬 &nbsp;Ask me about **React, REST APIs, Sentiment Analysis, or Civic Tech**
-📫 &nbsp;Reach me at **yashsrai5123@gmail.com**
-⚡ &nbsp;I turn messy real-world data into something actually useful
+<br/>
+
+&nbsp;&nbsp;🎓 &nbsp;CS Undergrad at **Ramdeobaba University, Nagpur**
+
+&nbsp;&nbsp;🌱 &nbsp;Currently learning **Machine Learning** + **HuggingFace Transformers**
+
+&nbsp;&nbsp;💻 &nbsp;Building full-stack apps with **Next.js, Node.js & MongoDB**
+
+&nbsp;&nbsp;🤖 &nbsp;Exploring the intersection of **ML and real-world web products**
+
+&nbsp;&nbsp;💬 &nbsp;Ask me about **React, REST APIs, Sentiment Analysis, or Civic Tech**
+
+&nbsp;&nbsp;📫 &nbsp;Reach me at **yashsrai5123@gmail.com**
+
+&nbsp;&nbsp;⚡ &nbsp;I turn messy real-world data into something actually useful
+
+<br/>
 
 ---
 
@@ -44,11 +54,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
+<br/>
+
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br/>
 
 ### 🤖 ML / AI
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -56,10 +70,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+<br/>
+
 ### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+<br/>
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,26 +94,27 @@
 
 <div align="center">
 
+<br/>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/24raiy/)
+&nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yashsrai5123)
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash5123&theme=github-dark-blue&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&background=0d1117" width="70%"/>
-
-</div>
 
 <br/>
 
+</div>
+
+---
+
+## 📈 Contribution Graph
+
 <div align="center">
 
+<br/>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 </div>
 
@@ -103,7 +122,11 @@
 
 <div align="center">
 
+<br/>
+
 > **Build systems that think. Write code that lasts. Ship products that matter.**
+
+<br/>
 
 </div>
 
