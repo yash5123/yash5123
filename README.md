@@ -110,7 +110,11 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak Stats](https://streak-stats.demolab.com/?user=yash5123&theme=dark&background=00000000&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakNum=00d4aa&sideNums=00d4aa&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=00000000&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true&grid=false&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
