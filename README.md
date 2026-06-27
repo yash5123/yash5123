@@ -4,28 +4,35 @@
 
 <div align="center">
   <a href="https://github.com/yash5123">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+Explorer+%F0%9F%A7%A0;Civic+Tech+Builder+%F0%9F%8C%8D;CS+Undergrad+%40+Ramdeobaba+University;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+Explorer+%F0%9F%A7%A0;CS+Undergrad+%40+Ramdeobaba+University;Civic+%26+Health+Tech+Builder;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <h4><i>"Learning ML. Building the web. Connecting the dots."</i></h4>
-</div>
+<br/>
 
-> **STATUS:** Shipping projects. Training models. Connecting ideas.
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-rai-b9a6b4324/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsrai5123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash5123)
+[![Profile Views](https://komarev.com/ghpvc/?username=yash5123&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS)](https://github.com/yash5123)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 CS Undergrad at **Ramdeobaba University, Nagpur**
-🌱 Currently learning **Machine Learning** & **HuggingFace Transformers**
-🚀 Building **TourVibe** — a full-stack tourism sentiment platform (IDP project)
-💧 Built **DroughtGuard** — a civic tech dashboard tracking drought risk across 732 Indian districts
-🏥 Built **MediCare** — a personal health tracker with a full custom design system
-💬 Ask me about **Next.js, MongoDB, Sentiment Analysis, or Civic Tech**
-📫 Reach me at **yashsrai5123@gmail.com**
-⚡ Fun fact: I enjoy making dashboards that turn messy real-world data into something actually useful
+```ts
+const yash = {
+  university  : "Ramdeobaba University, Nagpur 🎓",
+  focus       : ["Full-Stack Development", "Machine Learning"],
+  currentlyLearning : ["HuggingFace Transformers", "Next.js 14", "MongoDB Atlas"],
+  interests   : ["Civic Tech", "Health Tech", "Tourism Analytics"],
+  askMeAbout  : ["React", "Node.js", "Sentiment Analysis", "REST APIs"],
+  funFact     : "I turn messy real-world data into something actually useful 🌙",
+};
+```
 
 ---
 
@@ -72,44 +79,26 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yash5123)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yash5123)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/24raiy/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yashsrai5123)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash5123&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&bg_color=0d1117" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash5123&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=8b949e&bg_color=0d1117&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash5123&theme=github-dark-blue&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&background=0d1117" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash5123&theme=github-dark-blue&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&background=0d1117" width="70%"/>
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yash5123&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -127,20 +116,11 @@
 
 ---
 
-## 📫 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-rai-b9a6b4324/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsrai5123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash5123)
-[![Profile Views](https://komarev.com/ghpvc/?username=yash5123&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS)](https://github.com/yash5123)
+> **Build systems that think. Write code that lasts. Ship products that matter.**
 
 </div>
-
-<br/>
-
-> **Build systems that think. Write code that lasts. Ship products that matter.**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
