@@ -23,16 +23,13 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const yash = {
-  university  : "Ramdeobaba University, Nagpur 🎓",
-  focus       : ["Full-Stack Development", "Machine Learning"],
-  currentlyLearning : ["HuggingFace Transformers", "Next.js 14", "MongoDB Atlas"],
-  interests   : ["Civic Tech", "Health Tech", "Tourism Analytics"],
-  askMeAbout  : ["React", "Node.js", "Sentiment Analysis", "REST APIs"],
-  funFact     : "I turn messy real-world data into something actually useful 🌙",
-};
-```
+🎓 &nbsp;CS Undergrad at **Ramdeobaba University, Nagpur**
+🌱 &nbsp;Currently learning **Machine Learning** + **HuggingFace Transformers**
+💻 &nbsp;Building full-stack apps with **Next.js, Node.js & MongoDB**
+🤖 &nbsp;Exploring the intersection of **ML and real-world web products**
+💬 &nbsp;Ask me about **React, REST APIs, Sentiment Analysis, or Civic Tech**
+📫 &nbsp;Reach me at **yashsrai5123@gmail.com**
+⚡ &nbsp;I turn messy real-world data into something actually useful
 
 ---
 
@@ -100,18 +97,6 @@ const yash = {
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash5123/yash5123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash5123/yash5123/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash5123/yash5123/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 ---
