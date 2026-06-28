@@ -25,13 +25,10 @@
 
 &nbsp;&nbsp;🌱 &nbsp;Currently learning **Machine Learning** + **HuggingFace Transformers**
 
-&nbsp;&nbsp;💻 &nbsp;Building full-stack apps with **Next.js, Node.js & MongoDB**
 
 &nbsp;&nbsp;🤖 &nbsp;Exploring the intersection of **ML and real-world web products**
 
-&nbsp;&nbsp;💬 &nbsp;Ask me about **React, REST APIs, Sentiment Analysis, or Civic Tech**
 
-&nbsp;&nbsp;📫 &nbsp;Reach me at **yashsrai5123@gmail.com**
 
 &nbsp;&nbsp;⚡ &nbsp;I turn messy real-world data into something actually useful
 
