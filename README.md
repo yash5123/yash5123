@@ -97,17 +97,31 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
 <br/>
 
-[![GitHub Streak Stats](https://streak-stats.demolab.com/?user=yash5123&theme=dark&background=00000000&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakNum=00d4aa&sideNums=00d4aa&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=yash5123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&bg_color=0d1117&rank_icon=github" height="195"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash5123&theme=github-dark-blue&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&background=0d1117" height="195"/>
 
-<br/>
+<br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=00000000&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true&grid=false&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash5123&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=8b949e&bg_color=0d1117&langs_count=8&count_private=true" width="60%"/>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yash5123/yash5123/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash5123/yash5123/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yash5123/yash5123/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 <br/>
 
