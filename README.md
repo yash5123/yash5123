@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:00d4aa&height=200&section=header&text=Yash%20Rai&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Learning%20ML.%20Building%20the%20web.%20Connecting%20the%20dots.&descSize=18&descAlignY=60" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/yash5123">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;ML+Explorer+%F0%9F%A7%A0;CS+Undergrad+%40+Ramdeobaba+University;Civic+%26+Health+Tech+Builder;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  </a>
+</div>
+
 <br/>
 
 <div align="center">
@@ -5,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-rai-b9a6b4324/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashsrai5123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash5123)
+[![Profile Views](https://komarev.com/ghpvc/?username=yash5123&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS)](https://github.com/yash5123)
 
 </div>
 
@@ -18,7 +29,13 @@
 
 &nbsp;&nbsp;🌱 &nbsp;Currently learning **Machine Learning** + **HuggingFace Transformers**
 
+&nbsp;&nbsp;💻 &nbsp;Building full-stack apps with **Next.js, Node.js & MongoDB**
+
 &nbsp;&nbsp;🤖 &nbsp;Exploring the intersection of **ML and real-world web products**
+
+&nbsp;&nbsp;💬 &nbsp;Ask me about **React, REST APIs, Sentiment Analysis, or Civic Tech**
+
+&nbsp;&nbsp;📫 &nbsp;Reach me at **yashsrai5123@gmail.com**
 
 &nbsp;&nbsp;⚡ &nbsp;I turn messy real-world data into something actually useful
 
@@ -113,4 +130,8 @@
 
 <br/>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
