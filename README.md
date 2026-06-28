@@ -131,16 +131,6 @@
   </picture>
 </div>
 
----
-<div align="center">
-
-<br/>
-
-> **Build systems that think. Write code that lasts. Ship products that matter.**
-
-<br/>
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
