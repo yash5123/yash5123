@@ -103,13 +103,13 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash5123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&bg_color=0d1117&rank_icon=github" height="195"/>
+<img src="https://github-stats-extended.vercel.app/api?username=yash5123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&bg_color=0d1117&rank_icon=github" height="195"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com/?user=yash5123&theme=github-dark-blue&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&background=0d1117&cache_buster=1" height="195"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash5123&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=8b949e&bg_color=0d1117&langs_count=8&count_private=true" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yash5123&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=8b949e&bg_color=0d1117&langs_count=8&count_private=true" width="60%"/>
 
 <br/><br/>
 
