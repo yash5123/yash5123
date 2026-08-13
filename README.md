@@ -28,10 +28,6 @@
 
 &nbsp;&nbsp;🤖 &nbsp;Exploring the intersection of **ML and real-world web products**
 
-
-
-&nbsp;&nbsp;⚡ &nbsp;I turn messy real-world data into something actually useful
-
 <br/>
 
 ---
