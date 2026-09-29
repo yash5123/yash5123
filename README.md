@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td colspan="12" width="20%" align="center">
-      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50"/><br>
+      <img src="./assets/icons/huggingface.svg" width="50"/><br>
       <sub>Hugging Face</sub>
     </td>
     <td colspan="12" width="20%" align="center">
@@ -55,15 +55,15 @@
       <sub>scikit-learn</sub>
     </td>
     <td colspan="12" width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>
+      <img src="./assets/icons/pandas.svg" width="50"/><br>
       <sub>Pandas</sub>
     </td>
     <td colspan="12" width="20%" align="center">
-      <img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>
+      <img src="./assets/icons/numpy.svg" width="50"/><br>
       <sub>NumPy</sub>
     </td>
     <td colspan="12" width="20%" align="center">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br>
+      <img src="./assets/icons/streamlit.svg" width="50"/><br>
       <sub>Streamlit</sub>
     </td>
   </tr>
@@ -88,7 +88,7 @@
       <sub>Python</sub>
     </td>
     <td colspan="15" width="25%" align="center">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br>
+      <img src="./assets/icons/streamlit.svg" width="50"/><br>
       <sub>Streamlit</sub>
     </td>
   </tr>
@@ -130,7 +130,7 @@
       <sub>MongoDB</sub>
     </td>
     <td colspan="15" width="25%" align="center">
-      <img src="https://cdn.simpleicons.org/neon/00E599" width="50"/><br>
+      <img src="./assets/icons/neon.svg" width="50"/><br>
       <sub>Neon DB</sub>
     </td>
     <td colspan="15" width="25%" align="center">
@@ -138,7 +138,7 @@
       <sub>PostgreSQL</sub>
     </td>
     <td colspan="15" width="25%" align="center">
-      <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="50"/><br>
+      <img src="./assets/icons/cloudinary.svg" width="50"/><br>
       <sub>Cloudinary</sub>
     </td>
   </tr>
@@ -167,8 +167,8 @@
       <sub>Python</sub>
     </td>
     <td colspan="12" width="20%" align="center">
-      <img src="./assets/verilog.svg" width="50"/><br>
-      <sub>Verilog</sub>
+      <img src="./assets/icons/systemverilog.svg" width="50"/><br>
+      <sub>SystemVerilog</sub>
     </td>
   </tr>
 
@@ -188,7 +188,7 @@
       <sub>GitHub</sub>
     </td>
     <td colspan="15" width="25%" align="center">
-      <img src="https://cdn.simpleicons.org/render/46E3B7" width="50"/><br>
+      <img src="./assets/icons/render.svg" width="50"/><br>
       <sub>Render</sub>
     </td>
     <td colspan="15" width="25%" align="center">
