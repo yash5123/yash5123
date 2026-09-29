@@ -1,0 +1,44 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Fetch GitHub Streak
+        run: |
+          curl -f -s -S "https://streak-stats.demolab.com/?user=yash5123&theme=github-dark-blue&hide_border=true&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=8b949e&dates=8b949e&background=0d1117&cache_buster=1" -o assets/github-streak.svg || echo "Failed to fetch streak stats"
+
+      - name: Fetch GitHub Stats
+        run: |
+          curl -f -s -S "https://github-stats-extended.vercel.app/api?username=yash5123&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4aa&icon_color=00d4aa&text_color=8b949e&bg_color=0d1117&rank_icon=github" -o assets/github-stats.svg || echo "Failed to fetch github stats"
+
+      - name: Fetch Top Languages
+        run: |
+          curl -f -s -S "https://github-stats-extended.vercel.app/api/top-langs/?username=yash5123&layout=compact&theme=github_dark&hide_border=true&title_color=00d4aa&text_color=8b949e&bg_color=0d1117&langs_count=8&count_private=true" -o assets/top-langs.svg || echo "Failed to fetch top languages"
+
+      - name: Fetch Activity Graph
+        # Using your self-hosted Vercel deployment
+        run: |
+          curl -f -s -S "https://github-readme-activity-graph-eta-pink.vercel.app/graph?username=yash5123&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" -o assets/activity-graph.svg || echo "Failed to fetch activity graph"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats SVGs [skip ci]" && git push)
