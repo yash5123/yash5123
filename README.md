@@ -32,46 +32,172 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology & Tools Arsenal
 
 <div align="center">
 
-### 🖥️ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<table border="1" width="100%">
 
-<br/>
+  <!-- Machine Learning & AI -->
+  <tr>
+    <td colspan="60" align="center">
+      <h3>🤖 Machine Learning & AI</h3>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="800" height="1" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="50"/><br>
+      <sub>Hugging Face</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>
+      <sub>scikit-learn</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=pandas" width="50"/><br>
+      <sub>Pandas</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=numpy" width="50"/><br>
+      <sub>NumPy</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br>
+      <sub>Streamlit</sub>
+    </td>
+  </tr>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  <!-- Backend Development -->
+  <tr>
+    <td colspan="60" align="center">
+      <h3>⚙️ Backend Development</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+      <sub>Node.js</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>
+      <sub>Express.js</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+      <sub>Python</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50"/><br>
+      <sub>Streamlit</sub>
+    </td>
+  </tr>
 
-<br/>
+  <!-- Frontend Development -->
+  <tr>
+    <td colspan="60" align="center">
+      <h3>🖥️ Frontend Development</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>
+      <sub>Next.js</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+      <sub>React</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>
+      <sub>Tailwind CSS</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
 
-### 🤖 ML / AI
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  <!-- Database & Cloud -->
+  <tr>
+    <td colspan="60" align="center">
+      <h3>🗄️ Database & Cloud</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+      <sub>MongoDB</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://cdn.simpleicons.org/neon/00E599" width="50"/><br>
+      <sub>Neon DB</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="50"/><br>
+      <sub>Cloudinary</sub>
+    </td>
+  </tr>
 
-<br/>
+  <!-- Programming & Hardware Languages -->
+  <tr>
+    <td colspan="60" align="center">
+      <h3>💻 Programming & Hardware Languages</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+      <sub>C++</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+      <sub>C</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="50"/><br>
+      <sub>Java</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+      <sub>Python</sub>
+    </td>
+    <td colspan="12" width="20%" align="center">
+      <img src="./assets/verilog.svg" width="50"/><br>
+      <sub>Verilog</sub>
+    </td>
+  </tr>
 
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+  <!-- Tools & Platforms -->
+  <tr>
+    <td colspan="60" align="center">
+      <h3>🔧 Tools & Platforms</h3>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+      <sub>Git</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+      <sub>GitHub</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://cdn.simpleicons.org/render/46E3B7" width="50"/><br>
+      <sub>Render</sub>
+    </td>
+    <td colspan="15" width="25%" align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>
+      <sub>Vercel</sub>
+    </td>
+  </tr>
 
-<br/>
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+</table>
 
 </div>
 

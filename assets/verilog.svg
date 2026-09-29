@@ -1,0 +1,25 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#005B94"/>
+  <!-- Chip body -->
+  <rect x="58" y="58" width="140" height="140" rx="16" fill="#0E2A47" stroke="#4DA1FF" stroke-width="6"/>
+  <!-- Pins Left -->
+  <line x1="28" y1="88" x2="58" y2="88" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="28" y1="128" x2="58" y2="128" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="28" y1="168" x2="58" y2="168" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <!-- Pins Right -->
+  <line x1="198" y1="88" x2="228" y2="88" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="198" y1="128" x2="228" y2="128" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="198" y1="168" x2="228" y2="168" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <!-- Pins Top -->
+  <line x1="88" y1="28" x2="88" y2="58" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="128" y1="28" x2="128" y2="58" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="168" y1="28" x2="168" y2="58" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <!-- Pins Bottom -->
+  <line x1="88" y1="198" x2="88" y2="228" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="128" y1="198" x2="128" y2="228" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <line x1="168" y1="198" x2="168" y2="228" stroke="#4DA1FF" stroke-width="7" stroke-linecap="round"/>
+  <!-- Digital Clock Waveform / Logic inside chip -->
+  <path d="M78 135 H94 V105 H122 V135 H150 V105 H178" stroke="#00D4AA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Text Label -->
+  <text x="128" y="172" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="24" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">VERILOG</text>
+</svg>
