@@ -46,25 +46,21 @@
     </td>
   </tr>
   <tr>
-    <td colspan="12" width="20%" align="center">
+    <td colspan="15" width="25%" align="center">
       <img src="./assets/icons/huggingface.svg" width="50"/><br>
       <sub>Hugging Face</sub>
     </td>
-    <td colspan="12" width="20%" align="center">
+    <td colspan="15" width="25%" align="center">
       <img src="https://skillicons.dev/icons?i=sklearn" width="50"/><br>
       <sub>scikit-learn</sub>
     </td>
-    <td colspan="12" width="20%" align="center">
+    <td colspan="15" width="25%" align="center">
       <img src="./assets/icons/pandas.svg" width="50"/><br>
       <sub>Pandas</sub>
     </td>
-    <td colspan="12" width="20%" align="center">
+    <td colspan="15" width="25%" align="center">
       <img src="./assets/icons/numpy.svg" width="50"/><br>
       <sub>NumPy</sub>
-    </td>
-    <td colspan="12" width="20%" align="center">
-      <img src="./assets/icons/streamlit.svg" width="50"/><br>
-      <sub>Streamlit</sub>
     </td>
   </tr>
 
