@@ -199,7 +199,7 @@
 
 ---
 
-## ⚡ Coding Profiles
+## ⚡ Coding Profile
 
 <div align="center">
 
