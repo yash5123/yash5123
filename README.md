@@ -215,7 +215,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activitys
 
 <div align="center">
 
